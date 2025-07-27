@@ -1,5 +1,5 @@
-# Car Sharing Demand Forecasting & Analysis
-This repository contains the python script files for a car-sharing demand prediction project using a dataset spanning January 2017 to August 2018. The project is divided into two main parts:
+# Rental Car Demand Forecasting & Analysis
+This repository contains the python script files for a rental car demand prediction project using a dataset spanning January 2017 to August 2018. The project is divided into two main parts:
 
 - **Part 1: Database management (SQLite)** – involves using SQLite via python for table creation, column modifications, querying, and calculating demand rates.
 - **Part 2: Data analytics** – includes preprocessing, hypothesis testing, time series analysis, and predictive modeling using ARIMA, Random Forest Regressor, and Deep Neural Network (DNN) models.
